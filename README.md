@@ -36,3 +36,6 @@ npm install @ngxs/logger-plugin --save
 
 
 npm install @ngxs/devtools-plugin --save-dev
+
+3. Dummy API Json
+npm i json-server --dev
